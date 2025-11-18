@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bangladesh First Ability",
+    "uniques": [
+      "All tiles cost 1 movement",
+      "May travel on Water tiles without embarking"
+    ]
+  },
+  {
+    "name": "Bangladesh Second Ability",
+    "uniques": [
+      "[2] additional attacks per turn",
+      "Unit will heal every turn, even if it performs an action"
+    ]
+  }
+]
